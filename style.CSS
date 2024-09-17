@@ -1,0 +1,10 @@
+.italian , .indian , .mexican , .frenchig {
+width: 200px;
+
+}
+
+body {
+    justify-content: center;
+    justify-self: center;
+    text-align: center;
+}
